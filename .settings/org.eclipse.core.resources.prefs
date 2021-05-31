@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/lib/commons-codec-1.5.jar=UTF-8
+encoding//WebRoot/error.jsp=UTF-8
+encoding//WebRoot/res-jsp/web_ico.jsp=UTF-8
+encoding//src/com/zh/servlet/LoginServlet.java=UTF-8
+encoding//src/com/zh/servlet/messages/MessaageListServlet.java=UTF-8
+encoding//src/com/zh/util/Dbcp.java=UTF-8
+encoding//src/com/zh/vcode/ValidateCode.java=UTF-8
+encoding/<project>=UTF-8
